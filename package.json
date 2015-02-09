@@ -1,0 +1,27 @@
+{
+  "name": "smslingo",
+  "version": "0.0.1",
+  "description": "A simple module to convert SMS slang abbreviations to normal text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaydeep17/smslingo.git"
+  },
+  "keywords": [
+    "sms",
+    "abbreviation",
+    "chat",
+    "acronyms",
+    "messaging",
+    "texting"
+  ],
+  "author": "Jaydeep Solanki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaydeep17/smslingo/issues"
+  },
+  "homepage": "https://github.com/jaydeep17/smslingo"
+}
